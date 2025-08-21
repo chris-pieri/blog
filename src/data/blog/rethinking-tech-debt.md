@@ -1,7 +1,7 @@
 ---
 title: Reframing Tech Debt
 author: Chris Pieri
-pubDatetime: 2025-08-25T07:00:00.000Z
+pubDatetime: 2025-08-21T01:00:00.000Z
 featured: false
 draft: false
 slug: reframing-tech-debt
