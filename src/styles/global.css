@@ -67,3 +67,9 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+img + em {
+  margin-top: -20px;
+  display: block;
+  text-align: center;
+}
